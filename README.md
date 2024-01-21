@@ -1,0 +1,2 @@
+# myVimSetting
+.vimrcファイルの管理
